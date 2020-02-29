@@ -4,3 +4,4 @@
 4. git commit -m "Type Something" : commit command
 5. git push origin master : to push your commit in master branch
 6. git pull : before working, always use git pull command so that all changes are up to date with your local commit.
+7. git gui : We can also stage the commit files from git gui
