@@ -1,0 +1,6 @@
+1. git status  : to know the git status
+2. git add filename.txt : to add a particular file named filename.txt
+3. git add -A : to add all files
+4. git commit -m "Type Something" : commit command
+5. git push origin master : to push your commit in master branch
+6. git pull : before working, always use git pull command so that all changes are up to date with your local commit.
